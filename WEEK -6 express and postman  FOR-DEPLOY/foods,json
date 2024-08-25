@@ -1,0 +1,122 @@
+{
+  "foods": [
+    {
+      "name": "Apple",
+      "foodGroup": "Fruits",
+      "description": "A sweet and crunchy fruit with various varieties.",
+      "nutritionalInformation": "Rich in fiber, vitamins, and antioxidants.",
+      "servingSize": "One medium-sized apple.",
+      "allergens": "None",
+      "ingredients": "Apple",
+      "preparationMethods": "Raw, Baked, In desserts",
+      "healthBenefits": "Supports heart health and digestion.",
+      "bestPractices": "Choose organic apples for fewer pesticides."
+    },
+    {
+      "name": "Salmon",
+      "foodGroup": "Seafood",
+      "description": "Fatty fish with pink flesh.",
+      "nutritionalInformation": "High in omega-3 fatty acids, protein, and vitamin D.",
+      "servingSize": "3-4 oz fillet.",
+      "allergens": "Fish",
+      "ingredients": "Salmon",
+      "preparationMethods": "Grilled, Baked, Smoked",
+      "healthBenefits": "Supports brain health and reduces inflammation.",
+      "bestPractices": "Opt for wild-caught salmon."
+    },
+    {
+      "name": "Quinoa",
+      "foodGroup": "Grains",
+      "description": "Nutrient-dense grain with a nutty flavor.",
+      "nutritionalInformation": "High in protein, fiber, and essential minerals.",
+      "servingSize": "1 cup cooked.",
+      "allergens": "None",
+      "ingredients": "Quinoa",
+      "preparationMethods": "Boiled, Steamed",
+      "healthBenefits": "Gluten-free and promotes satiety.",
+      "bestPractices": "Rinse quinoa before cooking."
+    },
+    {
+      "name": "Broccoli",
+      "foodGroup": "Vegetables",
+      "description": "Green cruciferous vegetable.",
+      "nutritionalInformation": "Rich in vitamin C, fiber, and antioxidants.",
+      "servingSize": "1 cup chopped.",
+      "allergens": "None",
+      "ingredients": "Broccoli",
+      "preparationMethods": "Steamed, Roasted, Stir-fried",
+      "healthBenefits": "Supports immune system and bone health.",
+      "bestPractices": "Dont overcook to retain nutrients."
+    },
+    {
+      "name": "Almonds",
+      "foodGroup": "Nuts and Seeds",
+      "description": "Crunchy tree nuts.",
+      "nutritionalInformation": "High in healthy fats, vitamin E, and protein.",
+      "servingSize": "About 23 almonds.",
+      "allergens": "Tree nuts",
+      "ingredients": "Almonds",
+      "preparationMethods": "Raw, Roasted",
+      "healthBenefits": "Boosts heart health and provides energy.",
+      "bestPractices": "Choose unsalted almonds."
+    },
+    {
+      "name": "Greek Yogurt",
+      "foodGroup": "Dairy",
+      "description": "Thick and creamy yogurt.",
+      "nutritionalInformation": "High in protein, calcium, and probiotics.",
+      "servingSize": "1 cup.",
+      "allergens": "Dairy",
+      "ingredients": "Milk, Live cultures",
+      "preparationMethods": "Consumed as is",
+      "healthBenefits": "Supports gut health and muscle recovery.",
+      "bestPractices": "Opt for plain, unsweetened varieties."
+    },
+    {
+      "name": "Spinach",
+      "foodGroup": "Vegetables",
+      "description": "Leafy green vegetable.",
+      "nutritionalInformation": "Rich in iron, vitamins, and antioxidants.",
+      "servingSize": "1 cup raw.",
+      "allergens": "None",
+      "ingredients": "Spinach",
+      "preparationMethods": "Raw in salads, Cooked",
+      "healthBenefits": "Boosts energy and supports vision.",
+      "bestPractices": "Cook lightly to retain nutrients."
+    },
+    {
+      "name": "Chickpeas (Garbanzo Beans)",
+      "foodGroup": "Legumes",
+      "description": "Round, beige legume.",
+      "nutritionalInformation": "High in protein, fiber, and folate.",
+      "servingSize": "1 cup cooked.",
+      "allergens": "None",
+      "ingredients": "Chickpeas",
+      "preparationMethods": "Boiled, Canned",
+      "healthBenefits": "Supports digestion and heart health.",
+      "bestPractices": "Use in hummus or salads."
+    },
+    {
+      "name": "Blueberries",
+      "foodGroup": "Fruits",
+      "description": "Small, sweet berries.",
+      "nutritionalInformation": "Packed with antioxidants, vitamin C, and fiber.",
+      "servingSize": "1 cup.",
+      "allergens": "None",
+      "ingredients": "Blueberries",
+      "preparationMethods": "Raw, In smoothies",
+      "healthBenefits": "Enhances brain function and skin health.",
+      "bestPractices": "Choose organic berries."
+    },
+    {
+      "name": "Oats",
+      "foodGroup": "Grains",
+      "description": "Whole-grain cereal.",
+      "nutritionalInformation": "High in fiber, manganese, and complex carbs.",
+      "servingSize": "1 cup cooked.",
+      "allergens": "None",
+      "ingredients": "Oats",
+      "preparationMethods": "Cooked as oatmeal, Used in baking"
+    }
+  ]
+}
